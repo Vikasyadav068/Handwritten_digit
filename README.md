@@ -1,1 +1,1 @@
-# Handwritten_digit
+# Handwritten_digit_prediction
